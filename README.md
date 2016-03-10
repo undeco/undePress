@@ -1,27 +1,12 @@
-# Tema padrão em WordPress para desenvolvimento de Websites.
+# UndePress - WordPress Starter theme
 
 ![Under Development](https://img.shields.io/badge/under-development-lightgrey.svg)
 
-
-
-## Inclui :page_facing_up:
-
-### Framework CSS: Preboot
-### Gulp tasks:
-- Watch (liveReload)
-- LESS
-  - AutoPrefix
-  - CleanCSS (minify)
-- Uglify (JS)
-- Imagemin
-
-
-
 ## To-do
 
-- Criar generator npm/slush/yo
-- Substituir LESS por SASS;
-- Adicionar Burger Queen como boilerplate do tema;
-- Dar um talho no framework custom de CSS.
+- [ ] Padronize Gulpfile
+- [ ] Set standard for Back-End logic, applying a modularization principle
+- [ ] Set standard style for grid and other common SASS things
+- [ ] Promote and help people
 
-É isso! :poop:
+That's it :poop:
