@@ -1,0 +1,24 @@
+{
+  "name": "undepress-theme-gulp",
+  "version": "0.5.1",
+  "authors": [
+    "Cezar Augusto <cez@unde.co>",
+    "Nathalia Bruno <nat@unde.co>"
+  ],
+  "description": "WordPress Starter Theme for quickly project development",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "http://unde.co",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "preboot": "~2.1.0"
+  }
+}

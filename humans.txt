@@ -1,0 +1,44 @@
+
+                                     
+  `:+++++++++++++- `/+++/.   -++++-  -++++-   ./+++/` -+++++++++++++:`                                                                  
+  :MMMMMMMMMMMMMMN +MMMMMs  .mMMMMm..mMMMMm.  sMMMMM+ NMMMMMMMMMMMMMM:                                                                  
+  :NMMMMMMMMMMMMMN oMMMMMs  -mMMMMm--mMMMMm-  sMMMMMo NMMMMMMMMMMMMMN:                                                                  
+   .:::dMMMMMo:::. oMMMMMs  -mMMMMm--mMMMMm-  sMMMMMo .:::oMMMMMd:::.                                                                   
+       yMMMMM/     oMMMMMs  -mMMMMm--mMMMMm-  sMMMMMo     /MMMMMy                                                                       
+       yMMMMM/     oMMMMMs  -mMMMMm--mMMMMm-  sMMMMMo     /MMMMMy                                                                       
+       yMMMMM/     oMMMMMh``:NMMMMm--mMMMMN:``hMMMMMo     /MMMMMy                                                                       
+       yMMMMM/     /MMMMMMmmNMMMMMd..dMMMMMNmmMMMMMM/     /MMMMMy                                                                       
+       yMMMMM/      +dMMMMMMMMMMNy.  .yNMMMMMMMMMMd+      /MMMMMy                                                                       
+       :hdddy.       `/yddddddhs-      -shddddddy/`       .ydddd/          
+
+
+.............................................................................
+
+/* PROJECT */
+	.Project Name
+
+/* TEAM */
+
+	.Project Management: 
+
+	 ANNA CAROLINA BRAILE
+	 Contact: 
+	 Portfolio: 
+
+	.Design by: 
+
+	 DANIEL KUCERA
+	 Contact: 
+     Portfolio: 
+
+	.Development by: 
+
+	 CEZAR AUGUSTO
+	 Contact: 
+	 Portfolio: http://tafaltando
+
+	 NATHALIA BRUNO
+	 Contact: 
+	 Portfolio: http://nbruno.com.br
+
+.............................................................................

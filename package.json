@@ -1,0 +1,21 @@
+{
+  "name": "unde-press",
+  "version": "0.1.0",
+  "description": "WordPress Starter Theme for quickly project development",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Unde",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.3",
+    "imagemin": "^4.0.0",
+    "imagemin-pngquant": "^4.2.2"
+  }
+}

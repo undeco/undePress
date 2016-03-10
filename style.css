@@ -1,0 +1,27 @@
+/*
+Theme Name: Unde Press
+Theme URI: http://unde.co/undepress
+Author: Unde
+Author URI: http://unde.co
+Description: Tema padrão para desenvolvimento em WordPress.
+Version: 0.1.0
+License: MIT
+License URI: https://opensource.org/licenses/MIT
+Text Domain: undepress
+Tags:
+
+      ___           ___           ___           ___     
+     /\__\         /\__\         /\  \         /\  \    
+    /:/  /        /::|  |       /::\  \       /::\  \   
+   /:/  /        /:|:|  |      /:/\:\  \     /:/\:\  \  
+  /:/  /  ___   /:/|:|  |__   /:/  \:\__\   /::\~\:\  \ 
+ /:/__/  /\__\ /:/ |:| /\__\ /:/__/ \:|__| /:/\:\ \:\__\
+ \:\  \ /:/  / \/__|:|/:/  / \:\  \ /:/  / \:\~\:\ \/__/
+  \:\  /:/  /      |:/:/  /   \:\  /:/  /   \:\ \:\__\  
+   \:\/:/  /       |::/  /     \:\/:/  /     \:\ \/__/  
+    \::/  /        /:/  /       \::/__/       \:\__\    
+     \/__/         \/__/         ~~            \/__/    
+
+
+*/
+@import url('dist/css/main.css'); 
